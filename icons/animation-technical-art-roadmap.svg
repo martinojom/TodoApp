@@ -1,0 +1,271 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <!-- Background -->
+  <rect width="1200" height="800" fill="#0D1117" />
+  
+  <!-- Top Section - Person Working -->
+  <g transform="translate(900, 100)">
+    <!-- Person -->
+    <path d="M40,0 C50,0 60,10 60,20 C60,30 50,40 40,40 C30,40 20,30 20,20 C20,10 30,0 40,0 Z" fill="#FFD700" />
+    <path d="M30,40 L20,80 L30,80 L25,100 L35,100 L40,80 L50,100 L60,100 L55,80 L65,80 L55,40 Z" fill="#FFD700" />
+    <rect x="0" y="50" width="70" height="30" rx="5" fill="#4682B4" />
+    <!-- Animation Rig -->
+    <path d="M80,40 L100,60 L120,40 L100,80 Z" fill="none" stroke="#FF4500" stroke-width="2" />
+    <circle cx="100" cy="40" r="4" fill="#FF4500" />
+    <circle cx="80" cy="40" r="4" fill="#FF4500" />
+    <circle cx="120" cy="40" r="4" fill="#FF4500" />
+    <circle cx="100" cy="80" r="4" fill="#FF4500" />
+  </g>
+  
+  <!-- Main title -->
+  <text x="600" y="120" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">3D ANIMATION &amp; TECHNICAL ART</text>
+  
+  <!-- Technology Icons Row -->
+  <g transform="translate(60, 80)">
+    <!-- Maya -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="50" height="50" rx="5" fill="#01A1DF" />
+      <text x="25" y="30" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">MAYA</text>
+    </g>
+    
+    <!-- Blender -->
+    <g transform="translate(70, 0)">
+      <rect x="0" y="0" width="50" height="50" rx="5" fill="#E87D0D" />
+      <text x="25" y="30" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" text-anchor="middle">BLENDER</text>
+    </g>
+    
+    <!-- ZBrush -->
+    <g transform="translate(140, 0)">
+      <rect x="0" y="0" width="50" height="50" rx="5" fill="#565656" />
+      <text x="25" y="30" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="white" text-anchor="middle">ZBRUSH</text>
+    </g>
+    
+    <!-- Unreal -->
+    <g transform="translate(210, 0)">
+      <circle cx="25" cy="25" r="25" fill="#1E1E1E" />
+      <text x="25" y="30" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#00A5DA" text-anchor="middle">UE</text>
+    </g>
+    
+    <!-- Unity -->
+    <g transform="translate(280, 0)">
+      <circle cx="25" cy="25" r="25" fill="#1E1E1E" />
+      <text x="25" y="30" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFFFFF" text-anchor="middle">Unity</text>
+    </g>
+    
+    <!-- Python -->
+    <g transform="translate(350, 0)">
+      <rect x="0" y="0" width="50" height="50" rx="5" fill="#306998" />
+      <text x="25" y="30" font-family="Arial, sans-serif" font-size="12" font-weight="bold" fill="#FFD43B" text-anchor="middle">PY</text>
+    </g>
+    
+    <!-- JS -->
+    <g transform="translate(420, 0)">
+      <rect x="0" y="0" width="50" height="50" rx="0" fill="#F7DF1E" />
+      <text x="25" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#000" text-anchor="middle">JS</text>
+    </g>
+    
+    <!-- Houdini -->
+    <g transform="translate(490, 0)">
+      <rect x="0" y="0" width="50" height="50" rx="5" fill="#FF4713" />
+      <text x="25" y="30" font-family="Arial, sans-serif" font-size="10" font-weight="bold" fill="white" text-anchor="middle">HOUDINI</text>
+    </g>
+  </g>
+  
+  <!-- Main career paths -->
+  <g transform="translate(100, 180)">
+    <!-- Line connections -->
+    <line x1="500" y1="0" x2="90" y2="60" stroke="#444" stroke-width="2" />
+    <line x1="500" y1="0" x2="290" y2="60" stroke="#444" stroke-width="2" />
+    <line x1="500" y1="0" x2="500" y2="60" stroke="#444" stroke-width="2" />
+    <line x1="500" y1="0" x2="710" y2="60" stroke="#444" stroke-width="2" />
+    <line x1="500" y1="0" x2="910" y2="60" stroke="#444" stroke-width="2" />
+    
+    <!-- Main box -->
+    <rect x="400" y="-30" width="200" height="60" rx="5" stroke="white" stroke-width="2" fill="transparent" />
+    <text x="500" y="10" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">3D ARTIST</text>
+    
+    <!-- Career paths boxes -->
+    <!-- Modeler -->
+    <g transform="translate(0, 60)">
+      <rect x="0" y="0" width="180" height="60" rx="5" stroke="white" stroke-width="2" fill="transparent" />
+      <text x="90" y="35" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">3D MODELER</text>
+      
+      <!-- Sub specialties -->
+      <line x1="90" y1="60" x2="50" y2="100" stroke="#444" stroke-width="2" />
+      <line x1="90" y1="60" x2="130" y2="100" stroke="#444" stroke-width="2" />
+      
+      <rect x="0" y="100" width="100" height="40" rx="5" stroke="white" stroke-width="1" fill="transparent" />
+      <text x="50" y="125" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">CHARACTER</text>
+      
+      <rect x="110" y="100" width="100" height="40" rx="5" stroke="white" stroke-width="1" fill="transparent" />
+      <text x="160" y="125" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">ENVIRONMENT</text>
+      
+      <!-- Technologies -->
+      <g transform="translate(0, 160)">
+        <circle cx="25" cy="25" r="20" fill="#E87D0D" />
+        <circle cx="75" cy="25" r="20" fill="#01A1DF" />
+        <circle cx="125" cy="25" r="20" fill="#565656" />
+        <text x="25" y="28" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">Bl</text>
+        <text x="75" y="28" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">Ma</text>
+        <text x="125" y="28" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">ZB</text>
+      </g>
+    </g>
+    
+    <!-- Animator -->
+    <g transform="translate(200, 60)">
+      <rect x="0" y="0" width="180" height="60" rx="5" stroke="white" stroke-width="2" fill="transparent" />
+      <text x="90" y="35" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">ANIMATOR</text>
+      
+      <!-- Sub specialties -->
+      <line x1="90" y1="60" x2="50" y2="100" stroke="#444" stroke-width="2" />
+      <line x1="90" y1="60" x2="130" y2="100" stroke="#444" stroke-width="2" />
+      
+      <rect x="0" y="100" width="100" height="40" rx="5" stroke="white" stroke-width="1" fill="transparent" />
+      <text x="50" y="125" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">CHARACTER</text>
+      
+      <rect x="110" y="100" width="100" height="40" rx="5" stroke="white" stroke-width="1" fill="transparent" />
+      <text x="160" y="125" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">VFX</text>
+      
+      <!-- Technologies -->
+      <g transform="translate(0, 160)">
+        <circle cx="25" cy="25" r="20" fill="#01A1DF" />
+        <circle cx="75" cy="25" r="20" fill="#E87D0D" />
+        <circle cx="125" cy="25" r="20" fill="#00A5DA" />
+        <text x="25" y="28" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">Ma</text>
+        <text x="75" y="28" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">Bl</text>
+        <text x="125" y="28" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">UE</text>
+      </g>
+    </g>
+    
+    <!-- Technical Artist -->
+    <g transform="translate(410, 60)">
+      <rect x="0" y="0" width="180" height="60" rx="5" stroke="white" stroke-width="2" fill="#7B68EE" fill-opacity="0.3" />
+      <text x="90" y="35" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">TECHNICAL ARTIST</text>
+      
+      <!-- Sub specialties -->
+      <line x1="90" y1="60" x2="0" y2="100" stroke="#444" stroke-width="2" />
+      <line x1="90" y1="60" x2="90" y2="100" stroke="#444" stroke-width="2" />
+      <line x1="90" y1="60" x2="180" y2="100" stroke="#444" stroke-width="2" />
+      
+      <rect x="-50" y="100" width="100" height="40" rx="5" stroke="white" stroke-width="1" fill="transparent" />
+      <text x="0" y="125" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">PIPELINE TD</text>
+      
+      <rect x="60" y="100" width="100" height="40" rx="5" stroke="white" stroke-width="1" fill="#7B68EE" fill-opacity="0.3" />
+      <text x="110" y="125" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">RIGGER</text>
+      
+      <rect x="170" y="100" width="100" height="40" rx="5" stroke="white" stroke-width="1" fill="transparent" />
+      <text x="220" y="125" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">TOOL DEV</text>
+      
+      <!-- Technologies -->
+      <g transform="translate(-50, 160)">
+        <circle cx="25" cy="25" r="20" fill="#01A1DF" />
+        <circle cx="75" cy="25" r="20" fill="#306998" />
+        <circle cx="125" cy="25" r="20" fill="#E87D0D" />
+        <circle cx="175" cy="25" r="20" fill="#F7DF1E" />
+        <circle cx="225" cy="25" r="20" fill="#565656" />
+        <text x="25" y="28" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">Ma</text>
+        <text x="75" y="28" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">Py</text>
+        <text x="125" y="28" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">Bl</text>
+        <text x="175" y="28" font-family="Arial, sans-serif" font-size="10" fill="black" text-anchor="middle">JS</text>
+        <text x="225" y="28" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">mg</text>
+      </g>
+      
+      <!-- Martin's area of focus -->
+      <g transform="translate(90, 260)">
+        <rect x="-80" y="0" width="160" height="100" rx="5" stroke="#7B68EE" stroke-width="2" fill="transparent" />
+        <text x="0" y="25" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#7B68EE" text-anchor="middle">RIGGING SKILLS</text>
+        <line x1="-70" y1="35" x2="70" y2="35" stroke="#7B68EE" stroke-width="1" />
+        <text x="0" y="55" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">• Character Rigs</text>
+        <text x="0" y="75" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">• Control Systems</text>
+        <text x="0" y="95" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">• Deformation</text>
+      </g>
+    </g>
+    
+    <!-- Game Artist -->
+    <g transform="translate(620, 60)">
+      <rect x="0" y="0" width="180" height="60" rx="5" stroke="white" stroke-width="2" fill="transparent" />
+      <text x="90" y="35" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">GAME ARTIST</text>
+      
+      <!-- Sub specialties -->
+      <line x1="90" y1="60" x2="50" y2="100" stroke="#444" stroke-width="2" />
+      <line x1="90" y1="60" x2="130" y2="100" stroke="#444" stroke-width="2" />
+      
+      <rect x="0" y="100" width="100" height="40" rx="5" stroke="white" stroke-width="1" fill="transparent" />
+      <text x="50" y="125" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">ASSET ARTIST</text>
+      
+      <rect x="110" y="100" width="100" height="40" rx="5" stroke="white" stroke-width="1" fill="transparent" />
+      <text x="160" y="125" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">TECH ARTIST</text>
+      
+      <!-- Technologies -->
+      <g transform="translate(0, 160)">
+        <circle cx="25" cy="25" r="20" fill="#00A5DA" />
+        <circle cx="75" cy="25" r="20" fill="#FFFFFF" />
+        <circle cx="125" cy="25" r="20" fill="#E87D0D" />
+        <text x="25" y="28" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">UE</text>
+        <text x="75" y="28" font-family="Arial, sans-serif" font-size="10" fill="black" text-anchor="middle">Un</text>
+        <text x="125" y="28" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">Bl</text>
+      </g>
+    </g>
+    
+    <!-- VFX Artist -->
+    <g transform="translate(820, 60)">
+      <rect x="0" y="0" width="180" height="60" rx="5" stroke="white" stroke-width="2" fill="transparent" />
+      <text x="90" y="35" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">VFX ARTIST</text>
+      
+      <!-- Sub specialties -->
+      <line x1="90" y1="60" x2="50" y2="100" stroke="#444" stroke-width="2" />
+      <line x1="90" y1="60" x2="130" y2="100" stroke="#444" stroke-width="2" />
+      
+      <rect x="0" y="100" width="100" height="40" rx="5" stroke="white" stroke-width="1" fill="transparent" />
+      <text x="50" y="125" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">SIMULATION</text>
+      
+      <rect x="110" y="100" width="100" height="40" rx="5" stroke="white" stroke-width="1" fill="transparent" />
+      <text x="160" y="125" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">PARTICLES</text>
+      
+      <!-- Technologies -->
+      <g transform="translate(0, 160)">
+        <circle cx="25" cy="25" r="20" fill="#FF4713" />
+        <circle cx="75" cy="25" r="20" fill="#00A5DA" />
+        <circle cx="125" cy="25" r="20" fill="#01A1DF" />
+        <text x="25" y="28" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">Ho</text>
+        <text x="75" y="28" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">UE</text>
+        <text x="125" y="28" font-family="Arial, sans-serif" font-size="10" fill="white" text-anchor="middle">Ma</text>
+      </g>
+    </g>
+  </g>
+  
+  <!-- Martin's specialization box -->
+  <g transform="translate(280, 550)">
+    <rect x="0" y="0" width="640" height="200" rx="10" stroke="#7B68EE" stroke-width="3" fill="#1E1E1E" />
+    <text x="320" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#7B68EE" text-anchor="middle">MARTIN OJOM'S SPECIALIZATION PATH</text>
+    
+    <line x1="50" y1="60" x2="590" y2="60" stroke="#7B68EE" stroke-width="2" />
+    
+    <!-- Skills -->
+    <g transform="translate(30, 80)">
+      <rect x="0" y="0" width="180" height="100" rx="5" fill="#333" />
+      <text x="90" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">TECHNICAL SKILLS</text>
+      <text x="90" y="55" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">• Character Rigging (Maya)</text>
+      <text x="90" y="75" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">• Animation (Maya)</text>
+      <text x="90" y="95" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">• Scripting (Python, JS)</text>
+    </g>
+    
+    <g transform="translate(230, 80)">
+      <rect x="0" y="0" width="180" height="100" rx="5" fill="#333" />
+      <text x="90" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">SOFTWARE</text>
+      <text x="90" y="55" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">• Maya • mGear</text>
+      <text x="90" y="75" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">• Blender • Unreal</text>
+      <text x="90" y="95" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">• Houdini • Adobe Suite</text>
+    </g>
+    
+    <g transform="translate(430, 80)">
+      <rect x="0" y="0" width="180" height="100" rx="5" fill="#333" />
+      <text x="90" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">COMPLEMENTARY</text>
+      <text x="90" y="55" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">• Dance Choreography</text>
+      <text x="90" y="75" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">• Theatre Production</text>
+      <text x="90" y="95" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">• Music Production</text>
+    </g>
+  </g>
+  
+  <!-- Footer note -->
+  <text x="600" y="780" font-family="Arial, sans-serif" font-size="14" fill="#888" text-anchor="middle">© 2025 MARTIN OJOM | 3D CHARACTER RIGGER | CHARACTER ANIMATOR | TECHNICAL ARTIST</text>
+</svg>
